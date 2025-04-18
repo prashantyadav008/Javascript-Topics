@@ -18,7 +18,7 @@ delete obj1.age;
 console.log("obj1.age ->> ", obj1.age);
 
 /**
- * Output: node 8.delee_object.js 
+ * Output: node 8.delete_object.js 
     obj.age ->>  26
     obj.age ->>  undefined
     obj1.age ->>  30

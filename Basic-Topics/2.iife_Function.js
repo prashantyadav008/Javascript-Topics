@@ -8,7 +8,7 @@ var variable = 10;
   variable = 20;
 
   console.log("2.variable is ->", variable);
-})();
+})(); // iife function
 
 console.log("3.variable is ->", variable);
 
