@@ -17,7 +17,7 @@ setTimeout(() => prashant.sayName(), 3 * 1000);
 
 /**
  * Getting "Prashant Yadav" after 3 seconds
- * Output: node 7.setTimeout_with_Object.js 
+ * Output: node 7.object_bind.js
     undefined   
     Prashant Yadav
     Prashant Yadav

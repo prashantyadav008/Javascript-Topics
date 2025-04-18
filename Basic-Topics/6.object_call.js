@@ -27,7 +27,7 @@ function calling() {
 calling();
 
 /**
- * Output: node 6.object_calling.js 
+ * Output: node 6.object_call.js
     raj sayName --->> Raj
     raj sayName --->> Prashant Yadav
     undefined
